@@ -1,4 +1,4 @@
-const url = "https://5ee248e08b27f300160948a4.mockapi.io/video/login";
+const url = "https://5fc1a1c9cb4d020016fe6b07.mockapi.io/api/v1/login";
 
 
 // Ready Call Back Function using JQuery
